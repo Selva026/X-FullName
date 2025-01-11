@@ -1,0 +1,13 @@
+.name-form {
+    display: flex;
+    justify-content: flex-start !important;
+    /* text-align: center; */
+}
+
+.submitBtn {
+    margin: 20px;
+}
+
+.form-control {
+    margin: 10px;
+}
